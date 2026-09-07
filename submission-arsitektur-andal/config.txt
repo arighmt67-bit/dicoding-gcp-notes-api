@@ -1,6 +1,6 @@
 IP address: http://8.232.179.128
 Project ID: project-183cf8ce-97a2-455e-aad
-Sharable link Google Cloud Pricing Calculator: https://cloud.google.com/products/calculator/estimate-preview/CiQ2YjkzMjYxMy00OGZiLTQxNmMtYTc0MC1kNGFlMTRmNTZjY2YQAQ%3D%3D
+Sharable link Google Cloud Pricing Calculator: https://cloud.google.com/products/calculator/estimate-preview/CiQ1MzUzMjk2ZS1jOGVjLTQxYTYtYmEwOS01N2YwMDQ0NjAyZjMQAQ%3D%3D
 
 Fungsi/Kegunaan dari Setiap Metric:
 1. compute.googleapis.com/instance/cpu/utilization (CPU Utilization):
